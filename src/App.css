@@ -86,7 +86,7 @@ nav ul li a{
 
 .contact{
     height: 100vh;
-    background-image: url(./images/fire-banner.png);
+    background-image: url(../public/images/fire-banner.png);
     background-size: cover;
     display: flex;
     flex-direction: column;
